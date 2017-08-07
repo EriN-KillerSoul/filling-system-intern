@@ -1,0 +1,21 @@
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\Rekod Client Awaken.exe.config
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.vbprojResolveAssemblyReference.cache
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod_Client_Awaken.REKOD.resources
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod_Client_Awaken.Resources.resources
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.vbproj.GenerateResource.Cache
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.xml
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\Rekod Client Awaken.exe
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\Rekod Client Awaken.pdb
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\Rekod Client Awaken.xml
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.exe
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.pdb
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod_Client_Awaken.MENU_UTAMA.resources
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\MySql.Data.dll
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\tblprogram.accdb
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod_Client_Awaken.CETAK.resources
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\Rekod Client Awaken.exe.manifest
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\bin\Debug\Rekod Client Awaken.application
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.exe.manifest
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod Client Awaken.application
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod_Client_Awaken.Installer1.resources
+C:\My Life at PTPL Ampang College\INTERNSHIP\Sistem Client\Rekod Client Awaken\Rekod Client Awaken\obj\Debug\Rekod_Client_Awaken.LOGIN.resources
